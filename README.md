@@ -9,4 +9,4 @@ Don't forget to check social media for hashtag **#HackCT2023** and tag your own 
 
 See the [**wiki**](https://github.com/HackCTorg/Transportation-Hackathon-2023/wiki) for all the details! PLEASE NOTE: The wiki is still a work in progress, but we are working to supply you with all the challenge details and data we can give you prior to the event.
 
-Hackathon project repositories will eventually appear on the [HackTheSolarSystem organization page](https://github.com/HackTheSolarSystem)
+Hackathon project repositories will eventually appear on the [Transportation-Hackathon-2023 organization page](https://github.com/Transportation-Hackathon-2023)
