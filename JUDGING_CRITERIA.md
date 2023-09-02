@@ -1,13 +1,17 @@
 # Judges’ Rubric / Judging Criteria
 
-Consider each of the criteria when judging a project, asking yourself the questions below. Scores for judged projects will range from 4 to 20, and judges will use scoring to rank their top three projects. Judges may then commonly agree upon leading projects which all judges rank highly, and tie scores may spur further discussion among judges when no clear winner is apparent.
+As a judge, you should consider each of the criteria below when evaluating a project. Do this by asking yourself the questions below while watching project demonstrations. You will determine a score in each of the criteria ranging between 1 and 5 points; total scores for judged projects will range from 5 to 25. You will use this scoring to rank your top three projects, and you may use your discretion on ties. Judges may then commonly agree upon the three leading projects which they have ranked highly, and judges may continue further discussion among themselves when no clear winners are apparent.
 
-## On a scale from 1 to 5, is this solution...
+**On a scale from 1 to 5, is this solution...**
 
-* **Practical?**
-  - Is this a feasible solution that can be deployed near term?
-  - Will this solution work for all stakeholders? Will people want to use it?
-  - Are the technologies used in the solution readily available and open source?
+##  0. Practical?
+
+This is the measure of how suitable a project is to a particular challenge, and how usefully it can be put into effect. When considering how practical a project solution is, ask yourself these questions:
+
+* Is this a feasible solution that can be deployed near term?
+* Will this solution work for all stakeholders? Will people want to use it?
+* Are the technologies used in the solution readily available and open source?
+
 * **Impactful?**
   - Will this solution be effective for a significant amount of the populace?
   - What are the positive outcomes for people who use this solution?
