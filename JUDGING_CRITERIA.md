@@ -1,3 +1,4 @@
+
 # Judges’ Rubric / Judging Criteria
 
 ##  0. Judging Instructions
