@@ -21,7 +21,7 @@ This criteria scores how powerful of an effect the project solution will have on
 
 * Will this solution be effective for a significant amount of the populace?
 * What are the positive outcomes for people who use this solution?
-* Environmental
+* Are consideration of environmental
  
 ##  3. Data-driven?
 
