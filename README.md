@@ -5,7 +5,7 @@ The root directory of this repository contains data, documents, and images that 
 
 Everyone attending this hackathon must read, agree to, and sign the [Code of Conduct](https://github.com/HackCTorg/Transportation-Hackathon-2023/blob/main/CODE_OF_CONDUCT.md).
 
-Don't forget to check social media for hashtag **#HackCT2023** and tag your own posts with that hashtag!
+Don't forget to check social media for hashtag **#HackCT** and tag your own posts with that hashtag!
 
 See the [**wiki**](https://github.com/HackCTorg/Transportation-Hackathon-2023/wiki) for all the details! PLEASE NOTE: The wiki is still a work in progress, but we are working to supply you with all the challenge details and data we can give you prior to the event.
 
