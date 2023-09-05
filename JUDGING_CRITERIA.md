@@ -3,7 +3,7 @@
 
 ##  0. Judging Instructions
 
-As a judge, you should consider each of the criteria below when evaluating a project. Do this by asking yourself the questions below while watching hackathon project demonstrations. You will determine a score in each of these criteria ranging between 1 and 5 points; total scores for judged projects will range from 5 to 25. You will use this scoring to rank your top three projects, and you may use your discretion on ties. Judges may then commonly agree upon the three leading projects which they have ranked highly, and judges may continue further discussion among themselves to determine the top 3 when no clear winners are apparent.
+As a judge, you should consider each of the criteria below when evaluating each project. Do this by asking yourself the criteria questions while watching hackathon project demonstrations. You will determine a score in each criteria ranging between 1 and 5 points; total scores for judged projects will range from 5 to 25. Use total scores to rank your top three projects, and you may use your discretion on ties. All judges must then commonly agree upon three leading projects which they have ranked highly. Judges may continue further discussion among themselves to determine the top three when no clear winners are apparent.
 
 ## On a scale from 1 to 5, is this solution...
 
@@ -25,25 +25,24 @@ This criteria scores how powerful of an effect the project solution will have on
  
 ##  3. Data-driven?
 
-Score this criteria based upon how well the decisions made by a team for a project solution come from careful consideration of empirical evidence. It could also be a reflection of how data enables the solution and how key data is to its implementation.
+Score this criteria based upon how well the decisions made by a team for their solution came from careful consideration of empirical evidence. The score can also be a reflection of how data empowers and enables the solution.
 
-* 
-* Are the data sources referred to by the solution regularly maintained and refreshed, of good quality, official?
-* Does the solution demonstrably overcome a challenge using real world data?
+* Does the solution demonstrably overcome its challenge using real world data?
+* Are the data sources referred to by the solution regularly maintained, good quality, official data?
+* Did data play a pivotal role in the execution of the solution? Would the team have gone in another direction were it not for the data?
 
 ##  4. Scalable?
 
-The score for this criteria is based upon how well a project solution will be able to grow or to be adapted to meeting greater needs for the people affected by the challenge. It could also be how well a solution will remain effective when the situation gets worse or more complicated.  When determining the scalability score, ask yourself these questions:
+The score for this criteria is based upon how well a project solution will be able to grow or to be adapted to meeting the evolving needs of the people affected by the challenge. It could also be how well a solution will remain effective when the circumstances get worse or more complicated. When determining the scalable score, ask yourself these questions:
 
 * Can this solution be expanded or upgraded over time, or can it be easily extended into larger areas?
-* Will this solution work for growing populations, or populations that change over time?
-* 
+* Will this solution work for growing populations, or populations that otherwise change in composition over time?
+* How quickly could the population adopt this solution?
 
 ##  5. Fundable?
 
-The score for this criteria should reflect the opinion of the judge 
+The score for this criteria should reflect the judge's opinion as to whether the project can realistically receive money from organizational or government grants for implementation.
 
-* Does it align to any existing infrastructure bill/grant funding?
-* Where are there gaps in funding?
-* Does it have a local/state champion?
-* Is it possible to combine funding from various organizations?
+* Does the solution align to any existing infrastructure bill/grant funding?
+* Are there gaps in funding? Is it possible to combine funding from various organizations?
+* Would this solution have a local/state champion? Who would they be?
