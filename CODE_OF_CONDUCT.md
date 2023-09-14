@@ -36,9 +36,9 @@ This HackCT event may be filmed or photographed by HackCT and the non-profit org
 
 This hackathon is a creative and educational event, and is not a forum for business development or promotion. Participants may not engage in promotion of themselves or their businesses, including networking unrelated to HackCT Transportation Hackathon 2023 challenges, distributing printed materials or branded merchandise of any kind without the knowledge or consent of organizers, pitching a business or idea that is unrelated to the challenges, or any form of transactional or sales activity, whether or not money is involved.
 
-## 6. No Alcohol, Etc
+## 6. No Alcohol, Smoking, Etc
 
-No alcohol or other controlled or illegal substances of any kind will be allowed at this event (excluding alcohol served as part of the event or medications taken at the direction of a physician). Possession of any such substances will result in immediate expulsion from the event, and any participant who appears to be intoxicated or under the influence of any such substance will be asked to leave the event immediately for the health and safety of all participants.
+No alcohol or smoking or vaping or use of other controlled or illegal substances of any kind will be allowed at this event (excluding alcohol served by the event or medications taken at the direction of a physician) in any location - bus, venue, or hotel. Possession of any such substances will result in immediate expulsion from the event, and any participant who appears to be intoxicated or under the influence of any such substance will be asked to leave the event immediately for the health and safety of all participants.
 
 ## 7. Expected Behavior
 
@@ -57,6 +57,7 @@ The following behaviors are expected and requested of all community members:
 The following behaviors are considered harassment and are unacceptable within our community:
 
 *   Violence, threats of violence or violent language directed against another person.
+*   Criminal conduct of any kind.
 *   Any form of discrimination or harassment, including but not limited to jokes and language, directed at anyone on the basis of sex, race, color, religion, age, disability, sexual orientation, national or ethnic origin, or status as a special disabled veteran or veteran of the Vietnam era.
 *   Posting or displaying sexually explicit or violent or any other potentially harassing material (online or in person).
 *   Posting or threatening to post other people’s personally identifying information ("doxxing").
