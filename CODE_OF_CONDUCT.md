@@ -1,3 +1,5 @@
+Return to the [wiki](https://github.com/HackCTorg/Transportation-Hackathon-2023/wiki)
+
 # HackCT - Transportation Hackathon 2023 Code of Conduct
 
 ## 0. Following the Rules
