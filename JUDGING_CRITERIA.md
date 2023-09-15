@@ -1,3 +1,4 @@
+Return to the [wiki](https://github.com/HackCTorg/Transportation-Hackathon-2023/wiki)
 
 # Judges’ Rubric / Judging Criteria
 
